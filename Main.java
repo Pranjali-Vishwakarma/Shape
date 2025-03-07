@@ -1,4 +1,8 @@
 // Main.java
+// Name- Pranjali Vishwakarma
+// PRN - 23070126092
+// SY AIML B1
+
 import java.util.Scanner;
 
 public class Main {
